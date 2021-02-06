@@ -1,4 +1,26 @@
-*{
-    margin: 0;
-    padding: 0%;
+* {
+  margin: 0;
+  padding: 0%;
+}
+
+body {
+  background: rgb(0, 0, 34);
+  width: 100%;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 200%;
+  color: darkorchid;
+  padding: 15px;
+}
+
+.sub-title {
+  text-align: center;
+  font-size: 80%;
+  color: white;
+  width: 50%;
+
 }
