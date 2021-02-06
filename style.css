@@ -1,19 +1,6 @@
-<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0%;
-    box-sizing: border-box;
-}
-
-.snippets{
-    border-style:dashed;
-    border-width: 2px;
-    border-color: black;
-}
-=======
-* {
-  margin: 0;
-  padding: 0%;
 }
 
 body {
@@ -37,4 +24,9 @@ header h1 {
   width: 50%;
 
 }
->>>>>>> 156811cc380a92f81a1fae70e49c93037adfba1a
+
+.snippets{
+    border-style:dashed;
+    border-width: 2px;
+    border-color: black;
+}
