@@ -31,7 +31,9 @@ footer {
 }
 
 .snippets{
+    color: white;
     border-style:dashed;
     border-width: 2px;
-    border-color: black;
+    border-color: white;
+    width: 30%;
 }
